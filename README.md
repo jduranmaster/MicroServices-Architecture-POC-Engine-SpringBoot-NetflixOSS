@@ -12,7 +12,7 @@ El tuturial está organizado en "pasos" que van acompañados de tags en este rep
 $ git checkout paso-1
 ```
 
-Cada paso incluirá un paso-n.md con el contenido del tutorial y el código actualizado
+Cada paso incluirá un paso-n.md con el contenido del tutorial y el código actualizado.
 
 Para ver los cambios entre pasos, puedes utilizar:
 ```sh
