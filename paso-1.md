@@ -10,7 +10,7 @@ Algunas características de esta técnica de diseño son:
 * Gestión descentralizada, 
 * Endpoints inteligentes, 
 * Gestión de datos descentralizados, 
-* Automatización de infraestructura, 
+* Automatización de infraestructura.
 
 Lecturas recomendadas:
 * http://martinfowler.com/articles/microservices.html
